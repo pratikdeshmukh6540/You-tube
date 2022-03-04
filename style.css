@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    overflow: hidden;
+}
+.card-body img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.zero{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+
+}
+
+.bb{
+    display: flex;
+}
+
+.fot{
+    margin-left: 35px;
+}
+
+
